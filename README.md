@@ -1,2 +1,2 @@
 # C-12.Proje
-Diziler ve Stringler2
+12.Proje Eklenmiştir..
